@@ -12,7 +12,7 @@ Before starting, make sure you have the following installed:
 
 ### 1. Clone the Repository
 
-To get started, clone the repository from GitHub (or extract the zip file):
+To get started, clone the repository from GitHub:
 
 ```
 git clone  https://github.com/srmahitesh/Jarurat_Care_Assignment
